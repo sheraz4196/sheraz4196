@@ -12,15 +12,6 @@
   <img src="https://img.shields.io/github/stars/sheraz4196?label=Total%20Stars&style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheraz4196&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sheraz4196&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheraz4196&layout=compact&theme=tokyonight&langs_count=8"/>
-</p>
-
 ---
 
 ## 👋 About
