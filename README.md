@@ -149,4 +149,4 @@ Open to discussing opportunities, collaborations, or interesting technical chall
 
 ---
 
-**Developer Philosophy:** Write code that others want to maintain. Build products people actually use. Always be shipping.
+**Developer Philosophy:** Write code that others want to maintain. Build products people actually use. Always be shipping..
