@@ -14,7 +14,7 @@
 
 ---
 
-## 👋 About
+## 👋 About.
 
 I'm a frontend engineer focused on building **SaaS products** and **developer tools** that solve real problems. I specialize in modern React ecosystems with a strong emphasis on performance, type safety, and scalable UI architecture.
 
